@@ -28,7 +28,7 @@ PROFILE = {
     ),
     "education": [
         {"institution": "Universitas Bina Sarana Informatika", "program": "S1 Sistem Informasi", "period": "Semester 5"},
-        {"institution": "SMA Negeri 1 Samigaluh", "program": "Pendidikan menengah", "period":},
+        {"institution": "SMA Negeri 1 Samigaluh", "program": "Pendidikan menengah", "period":""},
     ],
     "technical_skills": ["Canva"],
     "soft_skills": ["Komunikasi", "Kerja sama tim"],
